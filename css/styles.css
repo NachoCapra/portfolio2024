@@ -88,7 +88,7 @@ b{
 }
 
 .skills--Container{
-    background-image: url("/assets/img/background.jpg");
+    background-image: url('/assets/img/background.jpg');
     background-position: center;
     background-repeat: no-repeat;
     width: 100%;
@@ -133,6 +133,9 @@ footer a {
         max-width: 230px; /* Ajusta el tamaño según sea necesario */
         height: auto;
     }
+    .perfil--Foto {
+        display: none;
+     }
 }
 
 @media (max-width: 912px) {
@@ -140,3 +143,4 @@ footer a {
        display: none;
     }
 }
+
