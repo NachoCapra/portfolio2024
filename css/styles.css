@@ -88,7 +88,7 @@ b{
 }
 
 .skills--Container{
-    background-image: url(/assets/img/background.jpg);
+    background-image: url("/assets/img/background.jpg");
     background-position: center;
     background-repeat: no-repeat;
     width: 100%;
