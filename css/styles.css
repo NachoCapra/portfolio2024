@@ -138,9 +138,12 @@ footer a {
      }
 }
 
-@media (max-width: 912px) {
+@media (max-width: 990px) {
     .perfil--Foto {
        display: none;
+    }
+    #certificados{
+        margin-top: 30px;
     }
 }
 
